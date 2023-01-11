@@ -1,6 +1,6 @@
-###Rabin Public Key Cryptosystem
+### Rabin Public Key Cryptosystem
 
- Create a project with the following features:
+Create a project with the following features:
   (i) Setting. The alphabet will have 27 characters: the blank and the 26 letters of the English
 alphabet.
 
